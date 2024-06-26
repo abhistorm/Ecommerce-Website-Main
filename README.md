@@ -12,7 +12,6 @@ Building a user-friendly shopping cart
 Creating a smooth checkout process
 
 Admin Pannel :    
-![navbar and 1 more page - Profile 1 - Microsoft​ Edge 22-07-2023 09_31_42](https://github.com/MrHK10/Ecommerce_Website/assets/102664312/78e214b0-b461-47de-8977-6a1032683852)
 
 Your product can be uploaded here, and it will appear in the main window:  
 
